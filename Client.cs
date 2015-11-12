@@ -8,7 +8,7 @@ namespace Onecloud.Video.RestfulApi.Demo
 
     public class Client
     {
-        private const string Host = "https://video.pispower.com/";
+        private const string Host = "https://video.cloudak47.com/";
 
         private readonly string _appKey;
 
