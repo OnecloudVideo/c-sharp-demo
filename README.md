@@ -7,7 +7,7 @@
 环境要求
 -------------
 >.NET Framework及以上版本
->必须注册有亦云视频帐号(登录-服务设置-RestfulAPI支持,获取AccessKey,AccessSecret)
+>必须注册有鸿瑞云视频帐号(登录-服务设置-RestfulAPI支持,获取AccessKey,AccessSecret)
 
 提供了以下功能
 -------------
